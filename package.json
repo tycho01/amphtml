@@ -141,6 +141,8 @@
     "preact-compat": "3.17.0",
     "pretty-bytes": "4.0.2",
     "prop-types": "15.6.1",
+    "pug-cli": "^1.0.0-alpha6",
+    "pug-plugin-ng": "0.0.2",
     "react-addons-shallow-compare": "15.6.2",
     "react-dates": "15.5.3",
     "react-externs": "0.13.6",
